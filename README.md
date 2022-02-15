@@ -8,7 +8,7 @@ cd cypressTestVaidyBuggy and run npm install
 
 The above step will install the node modules
 
-## enter the following command to open cypress ide
+## Enter the following command to open cypress ide
 ./node_modules/.bin/cypress open 
 This will open cypress and from here the following tests can be run:
 
