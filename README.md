@@ -4,7 +4,9 @@
 git clone https://github.com/<your-username>/cypress-example-kitchensink.git
 
 ## cd into the cloned repo
-cd cypressTestVaidyBuggy
+cd cypressTestVaidyBuggy and run npm install
+
+The above step will install the node modules
 
 ## enter the following command to open cypress ide
 ./node_modules/.bin/cypress open 
