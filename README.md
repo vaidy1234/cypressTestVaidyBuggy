@@ -24,5 +24,4 @@ Test approach for this website:
 
 The website has been tested manually (Exploratory) before writing automation tests for crucial functionalities.
 
-
-
+Manual Testing scenarios added via Word document
