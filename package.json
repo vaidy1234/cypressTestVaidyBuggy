@@ -1,0 +1,22 @@
+{
+  "name": "ideaprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://privaterepocypress@github.com/user/repo.git"
+  },
+  "author": "Vaidy B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user/repo/issues"
+  },
+  "homepage": "https://github.com/user/repo#readme",
+  "dependencies": {
+    "cypress": "^9.5.0"
+  }
+}
