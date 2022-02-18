@@ -1,7 +1,9 @@
 # cypressTestVaidyBuggy
 
 ## clone this repo to a local directory
+```
 git clone https://github.com/<your-username>/cypressTestVaidyBuggy.git
+```
 
 ## cd into the cloned repo
 
